@@ -6,9 +6,6 @@
   <img height="50" alt="My Name is Alexander and I like Node.js and React" src="images/personal_note.svg" />
   <br />
   <br />
-
+  <h1>👋👋👋👋👋</h1>
+  <h2 style="color: red;">👇👇👇 My works 👇👇👇</h2>
 </div>
-
-### 👋👋👋👋👋
-
-### <span style="text-aglian: center;">👇👇👇 My repositories 👇👇👇</span>

@@ -4,16 +4,18 @@
 			<style>
         strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: limegreen;
+          color: aqua;
           font-size: 1.5em;
         }
 
         .blink {
           animation: blink-animation 2s steps(5, start) infinite;
         }
+				
         .color-react {
-          color: aqua;
+          color: red;
         }
+				
         @keyframes blink-animation {
           to {
             visibility: hidden;

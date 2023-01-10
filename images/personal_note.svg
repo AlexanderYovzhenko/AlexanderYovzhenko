@@ -9,7 +9,10 @@
         }
 
         .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
+          animation: blink-animation 2s steps(5, start) infinite;
+        }
+        .color-react {
+          color: red;
         }
         @keyframes blink-animation {
           to {
@@ -17,7 +20,7 @@
           }
         }
       </style>
-      <strong>My Name is Livio and I like <span class="blink">Node.js</span></strong>
+      <strong>My Name is Alexander and I like <span class="blink">Node.js</span> and <span class="blink color-react">React</span></strong>
 		</div>
 	</foreignObject>
 </svg>

@@ -9,3 +9,5 @@
   <h1>👋👋👋👋👋</h1>
   <h2 style="color: red;">👇👇👇 My works 👇👇👇</h2>
 </div>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=GoldenManBel&color=blueviolet)
